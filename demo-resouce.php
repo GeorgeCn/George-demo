@@ -9,4 +9,3 @@
 	//   		r+ 读写
 	//   		a  追加
 	$a = fopen('./demo.php','r');
-	var_dump($a);
